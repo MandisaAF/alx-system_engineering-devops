@@ -1,1 +1,1 @@
-1print hello world
+0 -echo - prints out its text argument on standard output
